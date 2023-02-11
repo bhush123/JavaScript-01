@@ -1,0 +1,14 @@
+@font-face {                           
+    font-family: digital;
+    src: url(../fonts/DS-DIGI.TTF);
+}
+/*from  dafont.com  search on google LCD font family */
+
+#demo{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    font-family: digital;
+}
